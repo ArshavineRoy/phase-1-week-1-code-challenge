@@ -21,7 +21,9 @@ In case of an error in user input, the program repeats the prompt for the user t
 ### 2: Speed Detector
 
 This is a program that takes as input the speed of a car and outputs "Ok" if the speed is less than 70, and for every 5 km/s above the speed limit (70), it gives the driver one demerit point and prints the total number of demerit points.
-For example, if the speed is 80, it should prints: “Points: 2”. 
+
+For example, if the speed is 80, it prints: “Points: 2”. 
+
 If the driver gets more than 12 points, the function prints: “License suspended”.
 
 In case of an error in user input, the program repeats the prompt for the user to attempt another entry, allowing a max of three tries.
@@ -62,7 +64,7 @@ A personal relief of Ksh2,400 per month applies, which is subtracted from your t
 PAYE is calculated by first determining your taxable income. This is done by subtracting your pension contributions from your gross income. 
 Your taxable income is then taxed using the progressive income tax rates.
 
-    Gross Pay           	Rate of Tax (%)
+    Gross Pay             Rate of Tax (%)
     Up to 24,000                10
     24,001 - 32,333             25
     Above 32,333                30
@@ -71,7 +73,7 @@ Your taxable income is then taxed using the progressive income tax rates.
 #### NHIF Contributions
 Monthly NHIF contributions qualify for 15% insurance relief, capped at 5,000.
 ```
-    Gross Pay (Ksh)     Deduction (Ksh)
+    Gross Pay (Ksh)        Deduction (Ksh)
     Up to 5,999                 150	 	
     6,000 - 7,999               300	 	
     8,000 - 11,999              400	     	
@@ -98,38 +100,42 @@ Monthly NHIF contributions qualify for 15% insurance relief, capped at 5,000.
 git clone https://github.com/ArshavineRoy/phase-1-week-1-code-challenge
 ```
 
-### 2. Navigate to the project directory:
+### 2. Navigate to the project directory
 ```
 cd phase-1-week-1-code-challenge
 ```
-### 3. Open the project in Visual Studio Code:
+### 3. Open the project in Visual Studio Code
 ```
 Within the repo forlder in the terminal, use code . to open VS Code.
 
 Alternatively, run VS Code and the project repo folder directly.
 ```
-### 4. Install the Live Server extension:
+### 4. Install the Live Server extension
 ```
 Open the Extensions view in VS Code (Ctrl+Shift+X), search for "Live Server" by Ritwick Dey, and click Install.
 ```
 
-### 5. Open the JavaScript program of choice:
+### 5. Open the JavaScript program of choice
 ```
 Locate the JavaScript file in the project directory and open its index.html file.
 ```
 
-### 6. Start the Live Server:
+### 6. Start the Live Server
 ```
-Right-click on the opened JavaScript file in VS Code and select "Open with Live Server" from the context menu. This will automatically launch a local development server and open the JavaScript program in your default web browser.
+Right-click on the opened JavaScript file in VS Code and select "Open with Live Server" from the context menu.
+
+This will automatically launch a local development server and open the JavaScript program in your default web browser.
 ```
 
-### 7. View the console:
+### 7. View the console
 ```
-Right-click anywhere in the opened tab and select "Inspect" from the context menu to view developer tools. Click on "Console" to see outputs.
+Right-click anywhere in the opened tab and select "Inspect" from the context menu to view developer tools.
+
+Click on "Console" to see outputs.
 
 ```
 
-### 8. Interact with the programs:
+### 8. Interact with the programs
 ```
 Follow the prompts and view outputs to interact with the JavaScript program running in the browser.
 ```
