@@ -1,4 +1,7 @@
 # Phase 1 : Week 1 Code Challenge
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+
 ## Description
 
 This is a JavaScript code challenge for Phase 1 Week 1.
@@ -143,5 +146,3 @@ Follow the prompts and view outputs to interact with the JavaScript program runn
 
 ## Author & License
 This project is authored by Arshavine Waema and licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
